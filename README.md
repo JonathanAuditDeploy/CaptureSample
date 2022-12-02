@@ -1,0 +1,2 @@
+# CaptureSample
+Testing capture instance
